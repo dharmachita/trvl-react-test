@@ -6,7 +6,7 @@ function Signup() {
   return (
     <>
       {
-        <div className="sign-up">Hola soy el conenido del Sign-up</div>
+        <div className="sign-up">Hola soy el contenido de Sign-up</div>
         //<HeroSection />
         //<Cards />
       }

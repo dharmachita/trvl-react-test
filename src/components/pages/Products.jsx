@@ -6,7 +6,7 @@ function Products() {
   return (
     <>
       {
-        <div className="products">Hola soy el conenido de Products</div>
+        <div className="products">Hola soy el contenido de Products</div>
         //<HeroSection />
         //<Cards />
       }

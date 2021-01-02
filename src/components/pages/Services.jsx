@@ -6,7 +6,7 @@ function Services() {
   return (
     <>
       {
-        <div className="services">Hola soy el conenido de Services</div>
+        <div className="services">Hola soy el contenido de Services</div>
         //<HeroSection />
         //<Cards />
       }

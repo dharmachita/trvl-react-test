@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
       {
-        <div className="home">Hola soy el conenido del Home</div>
+        <div className="home">Hola soy el contenido del Home</div>
         //<HeroSection />
         //<Cards />
       }
