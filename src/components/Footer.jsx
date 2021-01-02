@@ -22,7 +22,9 @@ function Footer() {
               type="email"
               placeholder="Tu e-mail"
             />
-            <Button buttonStyle="btn--outline">Suscribirse</Button>
+            <Button buttonStyle="btn--outline" route="/">
+              Suscribirse
+            </Button>
           </form>
         </div>
       </section>
