@@ -3,6 +3,7 @@ import React from "react";
 //import HeroSection from "../HeroSection";
 
 function Signup() {
+  document.title = "TRVL | Sign-up";
   return (
     <>
       {
